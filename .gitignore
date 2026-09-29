@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Data files 
+data/*.csv
+data/*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/config.toml
